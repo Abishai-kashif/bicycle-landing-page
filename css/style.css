@@ -11,8 +11,7 @@
 }
 body {
     color: #ffffff;
-    background: #413f3b
-        url("../../HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett/chapter-15/images/bg.jpg");
+    background: #413f3b url("../images/bg.jpg");
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 90%;
     margin: 0px;
@@ -26,7 +25,7 @@ a:hover {
     color: #ffffff;
 }
 header {
-    background-image: url("../../HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett/chapter-15/images/g-header.jpg");
+    background-image: url("../images/bg-header.jpg");
     padding: 0px 0px 0px 0px;
     height: 100px;
     position: fixed;
@@ -44,7 +43,7 @@ nav {
 .wrapper {
     width: 960px;
     margin: 0px auto;
-    background-image: url("../../HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett/chapter-15/images/bg-triangle.png");
+    background-image: url("/images/bg-triangle.png");
     background-repeat: no-repeat;
     background-position: 0px 0px;
     text-align: left;
@@ -73,7 +72,7 @@ h1 {
     line-height: 1.4em;
 }
 .main-story {
-    background-image: url("../../HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett/chapter-15/images/triangles.png");
+    background-image: url("/images/triangles.png");
     background-repeat: no-repeat;
     background-position: 122px 142px;
     height: 570px;
